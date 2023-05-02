@@ -1,0 +1,12 @@
+F:\vsc_workspace\BlazorRealTimeApp\BlazorRealTimeApp\Shared\bin\Debug\net6.0\BlazorRealTimeApp.Shared.deps.json
+F:\vsc_workspace\BlazorRealTimeApp\BlazorRealTimeApp\Shared\bin\Debug\net6.0\BlazorRealTimeApp.Shared.dll
+F:\vsc_workspace\BlazorRealTimeApp\BlazorRealTimeApp\Shared\bin\Debug\net6.0\BlazorRealTimeApp.Shared.pdb
+F:\vsc_workspace\BlazorRealTimeApp\BlazorRealTimeApp\Shared\obj\Debug\net6.0\BlazorRealTimeApp.Shared.csproj.AssemblyReference.cache
+F:\vsc_workspace\BlazorRealTimeApp\BlazorRealTimeApp\Shared\obj\Debug\net6.0\BlazorRealTimeApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\vsc_workspace\BlazorRealTimeApp\BlazorRealTimeApp\Shared\obj\Debug\net6.0\BlazorRealTimeApp.Shared.AssemblyInfoInputs.cache
+F:\vsc_workspace\BlazorRealTimeApp\BlazorRealTimeApp\Shared\obj\Debug\net6.0\BlazorRealTimeApp.Shared.AssemblyInfo.cs
+F:\vsc_workspace\BlazorRealTimeApp\BlazorRealTimeApp\Shared\obj\Debug\net6.0\BlazorRealTimeApp.Shared.csproj.CoreCompileInputs.cache
+F:\vsc_workspace\BlazorRealTimeApp\BlazorRealTimeApp\Shared\obj\Debug\net6.0\BlazorRealTimeApp.Shared.dll
+F:\vsc_workspace\BlazorRealTimeApp\BlazorRealTimeApp\Shared\obj\Debug\net6.0\refint\BlazorRealTimeApp.Shared.dll
+F:\vsc_workspace\BlazorRealTimeApp\BlazorRealTimeApp\Shared\obj\Debug\net6.0\BlazorRealTimeApp.Shared.pdb
+F:\vsc_workspace\BlazorRealTimeApp\BlazorRealTimeApp\Shared\obj\Debug\net6.0\ref\BlazorRealTimeApp.Shared.dll

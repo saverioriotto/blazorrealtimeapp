@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\vsc_workspace\\BlazorRealTimeApp\\BlazorRealTimeApp\\Client\\BlazorRealTimeApp.Client.csproj": {}
+  },
+  "projects": {
+    "F:\\vsc_workspace\\BlazorRealTimeApp\\BlazorRealTimeApp\\Client\\BlazorRealTimeApp.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\vsc_workspace\\BlazorRealTimeApp\\BlazorRealTimeApp\\Client\\BlazorRealTimeApp.Client.csproj",
+        "projectName": "BlazorRealTimeApp.Client",
+        "projectPath": "F:\\vsc_workspace\\BlazorRealTimeApp\\BlazorRealTimeApp\\Client\\BlazorRealTimeApp.Client.csproj",
+        "packagesPath": "C:\\Users\\Saverio\\.nuget\\packages\\",
+        "outputPath": "F:\\vsc_workspace\\BlazorRealTimeApp\\BlazorRealTimeApp\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saverio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\vsc_workspace\\BlazorRealTimeApp\\BlazorRealTimeApp\\Shared\\BlazorRealTimeApp.Shared.csproj": {
+                "projectPath": "F:\\vsc_workspace\\BlazorRealTimeApp\\BlazorRealTimeApp\\Shared\\BlazorRealTimeApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "F:\\vsc_workspace\\BlazorRealTimeApp\\BlazorRealTimeApp\\Shared\\BlazorRealTimeApp.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\vsc_workspace\\BlazorRealTimeApp\\BlazorRealTimeApp\\Shared\\BlazorRealTimeApp.Shared.csproj",
+        "projectName": "BlazorRealTimeApp.Shared",
+        "projectPath": "F:\\vsc_workspace\\BlazorRealTimeApp\\BlazorRealTimeApp\\Shared\\BlazorRealTimeApp.Shared.csproj",
+        "packagesPath": "C:\\Users\\Saverio\\.nuget\\packages\\",
+        "outputPath": "F:\\vsc_workspace\\BlazorRealTimeApp\\BlazorRealTimeApp\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saverio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
