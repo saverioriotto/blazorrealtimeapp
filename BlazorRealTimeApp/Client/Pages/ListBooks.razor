@@ -6,9 +6,9 @@
 @inject NavigationManager NavigationManager  
 @inject HttpClient Http  
   
-<h2>Book Details</h2>  
+<h2>Gestione Libri</h2>  
 <p>  
-    <a href="/addbook">Create New Book</a>  
+    <a href="/addbook">Aggiungi libro</a>  
 </p>  
 @if (books == null)  
 {  
@@ -19,10 +19,10 @@ else
     <table class='table'>  
         <thead>  
             <tr>  
-                <th>Name</th>  
+                <th>Nome</th>  
                 <th>ISBN</th>  
-                <th>Author</th>  
-                <th>Price</th>  
+                <th>Autore</th>  
+                <th>Prezzo</th>  
             </tr>  
         </thead>  
         <tbody>  
@@ -34,8 +34,8 @@ else
                     <td>@book.Author</td>  
                     <td>@book.Price</td>  
                     <td>  
-                        <a href='/editbook/@book.Id'>Edit</a>  
-                        <a href='/deletebook/@book.Id'>Delete</a>  
+                        <a href='/editbook/@book.Id'>Modifica</a>  
+                        <a href='/deletebook/@book.Id'>Rimuovi</a>  
                     </td>  
                 </tr>  
             }  
